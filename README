@@ -1,7 +1,7 @@
-The special functions we added are options at the top of the game, where the
-player can change the length of the game if he wants.
-In addition we added memes that give appropriate reactions to guessed words
-Also, we gave the player the option to regret choosing a letter, and he can
-undo the choice.
-Also at the beginning of the game there is a countdown to let the user prepare
-his bearings before the game begins
+This game was made as a final excercise in Intro to CS course by Nadav Porat and Amir Harel.
+
+The game shows the player a randomized table of letters and the play then tries to build as many words as he can using adjacent letters in the table.
+
+The player can customize the length of the game and the length of the counter at the start of the game.
+
+The game was built exclusively in python using the Tkinter GUI module
