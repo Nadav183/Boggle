@@ -1,0 +1,7 @@
+The special functions we added are options at the top of the game, where the
+player can change the length of the game if he wants.
+In addition we added memes that give appropriate reactions to guessed words
+Also, we gave the player the option to regret choosing a letter, and he can
+undo the choice.
+Also at the beginning of the game there is a countdown to let the user prepare
+his bearings before the game begins
